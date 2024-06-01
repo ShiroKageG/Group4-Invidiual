@@ -17,7 +17,7 @@ namespace Group4_Invidiual
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new HomeMenu());
+            Application.Run(new LoginForm());
         }
     }
 }
